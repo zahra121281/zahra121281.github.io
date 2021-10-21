@@ -8,10 +8,11 @@ modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
-
+### Classmates
+* [Shadi Zargarzadeh](http://ShadiZargar.github.io)
+* [Elham Gholami](http://elhamgholami.github.io)
+* [Zahra Abbasgholi](http://ZahraAbbasgholi.github.io)
+* [Sogol Tahbaz](http://sogoltahbaz.github.io)
+* [Masoomeh Ghaffari](http://MasoomehGhaffari.github.io)
 
 
