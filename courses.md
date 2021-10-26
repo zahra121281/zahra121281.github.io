@@ -11,14 +11,14 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
+|2021|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
+|2021|Fall  | **<a href="/ds98/">camputer lab</a>** |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Lab</a>** |
 
 
-|           | **Past**                       |
+
+<!-- |           | **Past**                       |
 |----|------|--------------------------------|
 |2019|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
 |----|------|--------------------------------|
@@ -34,4 +34,4 @@ comments: false
 |----|------|--------------------------------------------|
 |2018|Spring| **Advanced Programming - C#**             |
 |----|------|--------------------------------------------|
-|2018|Spring| **Natural Language Processing (Undergraduate)** |
+|2018|Spring| **Natural Language Processing (Undergraduate)** | -->

@@ -9,22 +9,16 @@ comments: false
 ---
 
 
-|    |    | **Experience**                                                             |
+|    |    | **Education**                                                             |
 |----|----|-------------------------------------------------------------------------------|
-|2018| now| **Assistant Professor**, Computer Sceince Department, IUST, Tehran, Iran |
+|2018| 2021| **دبیرستان فرزانگان دوره دوم خراسان رضوی گناباد |
 |----|----|-------------------------------------------------------------------------------|
-|2005|2018| **Senior Research Software Development Engineer**, Microsoft Research, Redmond WA |
+|2015|2018| **نمونه سید جعفر ذبیحی استان خراسان رضوی گناباد  |
 |----|------|-------------------------------------------------------------------------------|
-|2005|      | **Research Intern**, Microsoft Research, Redmond WA |
+|2009|2015| ** دبستان ابتدایی معلم باشی استان خراسان رضوی گناباد |
 |----|------|-------------------------------------------------------------------------------|
-|2004|      | **Research Intern**, Microsoft Research, Redmond WA |
 
 
 
-|     |    |**Education**                                                               |
-|-----|----|----------------------------------------------------------------------------------|
-|2008 |2016| **PhD**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
-|-----|----|----------------------------------------------------------------------------------|
-|2003 |2005| **MSc**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
-|-----|----|----------------------------------------------------------------------------------|
-|1997 |2001| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran               |
+
+
