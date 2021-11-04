@@ -15,4 +15,6 @@ comments: true
 * [Sogol Tahbaz](http://sogoltahbaz.github.io)
 * [Masoomeh Ghaffari](http://MasoomehGhaffari.github.io)
 * [Helia Shamszadeh](http://HeliaShamszadeh.github.io)
+* [Fatemeh Moqadam](http://fatememoqadam.github.io)
+* [Aida Najafi](http://AidaNajafi.github.io)
 
